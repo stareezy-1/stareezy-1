@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ── Animated header banner (self-hosted, always available) ──────── -->
-<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/header.svg" alt="STAREEZY — Front End Engineer · ERP & Business Systems · Web & React Native" />
+<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/header.svg?v=2" alt="STAREEZY — Front End Engineer · ERP & Business Systems · Web & React Native" />
 
 # Muhammad Bintang Al Akbar
 
@@ -315,6 +315,6 @@ _The best interfaces are invisible. The best systems are inevitable._
 ![Visitor Count](https://komarev.com/ghpvc/?username=stareezy-1&color=C0473E&style=flat-square&label=profile+views)
 
 <!-- ── Animated wave footer (self-hosted, always available) ────────── -->
-<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/footer.svg" alt="footer" />
+<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/footer.svg?v=2" alt="footer" />
 
 </div>
