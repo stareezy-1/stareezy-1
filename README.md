@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ── Animated wave header banner ─────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:14b88a,100:2DD4A7&height=200&section=header&text=STAREEZY&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Front%20End%20Engineer%20%C2%B7%20ERP%20%26%20Business%20Systems%20%C2%B7%20Web%20%26%20React%20Native&descAlignY=60&descSize=16&animation=fadeIn" alt="header" />
+<!-- ── Animated header banner (self-hosted, always available) ──────── -->
+<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/header.svg" alt="STAREEZY — Front End Engineer · ERP & Business Systems · Web & React Native" />
 
 # Muhammad Bintang Al Akbar
 
@@ -226,11 +226,14 @@ I take these from **requirements → data model → UI → API → deploy**. I'm
 
 > Dominated by **TypeScript** across React, React Native & Next.js, with **Go** powering the backend layer and **CSS / SQL** rounding out the full-stack business-app work.
 
-### 🏆 Trophies
+### 🏆 Highlights
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=stareezy-1&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
+![ERP & Business Systems](https://img.shields.io/badge/ERP_%26_Business_Systems-built_from_scratch-2DD4A7?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design_Systems-6_package_monorepo-14b88a?style=for-the-badge)
+![End to End](https://img.shields.io/badge/Ownership-Frontend_→_API_→_Deploy-0f0f0f?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-100%25_strict_mode-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -311,7 +314,7 @@ _The best interfaces are invisible. The best systems are inevitable._
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=stareezy-1&color=2DD4A7&style=flat-square&label=profile+views)
 
-<!-- ── Animated wave footer ────────────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4A7,50:14b88a,100:0f0f0f&height=120&section=footer&animation=fadeIn" alt="footer" />
+<!-- ── Animated wave footer (self-hosted, always available) ────────── -->
+<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/footer.svg" alt="footer" />
 
 </div>
