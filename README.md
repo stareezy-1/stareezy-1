@@ -188,14 +188,42 @@ A library of steering & skill files for AI-assisted development: frontend archit
 
 ---
 
-## 📈 GitHub activity
+## � GitHub Statistics
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=stareezy-1&show_icons=true&hide_border=true&title_color=2DD4A7&icon_color=2DD4A7&text_color=c9d1d9&bg_color=0f0f0f)
-![Streak](https://streak-stats.demolab.com?user=stareezy-1&hide_border=true&background=0f0f0f&ring=2DD4A7&fire=2DD4A7&currStreakLabel=2DD4A7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
+<!-- ── Headline stats + streak ─────────────────────────────────────── -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=stareezy-1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2DD4A7&icon_color=2DD4A7&text_color=c9d1d9&bg_color=0f0f0f" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=stareezy-1&hide_border=true&background=0f0f0f&ring=2DD4A7&fire=2DD4A7&currStreakLabel=2DD4A7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stareezy-1&layout=compact&hide_border=true&title_color=2DD4A7&text_color=c9d1d9&bg_color=0f0f0f)
+</div>
+
+### 🧠 Most Used Languages
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stareezy-1&layout=compact&langs_count=8&hide_border=true&title_color=2DD4A7&text_color=c9d1d9&bg_color=0f0f0f" alt="Top languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stareezy-1&layout=donut&langs_count=6&hide_border=true&title_color=2DD4A7&text_color=c9d1d9&bg_color=0f0f0f" alt="Top languages donut" />
+
+</div>
+
+> Dominated by **TypeScript** across React, React Native & Next.js, with **Go** powering the backend and **CSS / WebAssembly** rounding out the privacy-first PDF stack.
+
+### 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=stareezy-1&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
+
+</div>
+
+### 📅 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stareezy-1&bg_color=0f0f0f&color=2DD4A7&line=2DD4A7&point=ffffff&area=true&hide_border=true)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stareezy-1&theme=github_dark" alt="Profile summary" />
 
 </div>
 
