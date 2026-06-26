@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ── Animated wave header banner ─────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:14b88a,100:2DD4A7&height=200&section=header&text=STAREEZY&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Front%20End%20Engineer%20%C2%B7%20Design%20Systems%20%C2%B7%20Cross-Platform&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:14b88a,100:2DD4A7&height=200&section=header&text=STAREEZY&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Front%20End%20Engineer%20%C2%B7%20ERP%20%26%20Business%20Systems%20%C2%B7%20Web%20%26%20React%20Native&descAlignY=60&descSize=16&animation=fadeIn" alt="header" />
 
 # Muhammad Bintang Al Akbar
 
 <!-- ── Animated typing tagline ─────────────────────────────────────── -->
 <a href="https://stareezy.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2DD4A7&center=true&vCenter=true&width=720&lines=Front+End+Engineer+%C2%B7+Design+Systems;Web+%2B+React+Native+from+ONE+codebase;Privacy-first%2C+zero-server+web+apps;Strict+TypeScript+%C2%B7+Property-based+tests;Interfaces+that+feel+inevitable." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2DD4A7&center=true&vCenter=true&width=760&lines=Front+End+Engineer+%C2%B7+Web+%26+React+Native;I+build+ERP+%26+internal+business+systems+from+scratch;Complex+dashboards%2C+workflows+%26+role-based+access;Design+systems+that+scale+across+teams;Strict+TypeScript+%C2%B7+Clean+architecture+%C2%B7+Real+ownership." alt="Typing SVG" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-stareezy.tech-2DD4A7?style=for-the-badge&logo=safari&logoColor=white)](https://stareezy.tech)
@@ -24,31 +24,33 @@
 
 ## 👋 For recruiters — the 30-second version
 
-I'm a front end engineer who builds **production design systems** and **privacy-first web apps**. I'm equally comfortable owning a component library end-to-end (tokens → runtime → docs) and shipping a full product with its own Go backend. I write **strict TypeScript**, test with **property-based testing**, and hold every screen to **WCAG AA**.
+I'm a front end engineer who builds **complex business software end-to-end** — the kind of systems companies actually run on. I've architected and shipped **ERP and internal business platforms from scratch**: multi-module dashboards, inventory and finance workflows, role-based access control, approval chains, and data-heavy tables that stay fast under real load.
+
+I'm not just a screen-builder. I design the **information architecture**, model the data, build a reusable **design system** so features ship consistently, and connect it all to the API. When the backend isn't ready, I build it myself.
 
 **What I bring to a team:**
 
-- 🎯 **Design systems that scale** — I've built a typed token system with cross-platform adapters so web and React Native share one source of truth.
-- 🔒 **Privacy & performance mindset** — shipped a 50+ tool PDF suite that runs 100% in the browser (zero server cost, zero data exposure).
-- 🧱 **Full ownership** — comfortable from Figma to frontend to Go/Gin API to Fly.io deploy. I don't wait for a backend to unblock me.
-- ✅ **Quality by default** — strict types, property-based tests, semantic HTML, accessibility, and clean architecture as a baseline, not an afterthought.
+- 🏢 **Business-domain depth** — I've built ERP and internal tools from zero: complex forms, multi-step workflows, permissions, reporting, and audit trails. I understand the messy real-world logic behind enterprise software.
+- 🎯 **Design systems that scale** — a typed token system with cross-platform adapters so web and React Native ship from one source of truth, keeping large teams consistent.
+- 🧱 **Full ownership** — comfortable from Figma to frontend to Go/Gin API to deployment. I close gaps instead of waiting for them.
+- ✅ **Engineering discipline** — strict TypeScript, clean layered architecture, automated tests, semantic HTML, and accessibility as a baseline, not an afterthought.
 
-> **Looking for:** Frontend / React Native / Design Systems roles where craft and ownership are valued. Remote or hybrid.
+> **Looking for:** Front end / React Native / product engineering roles — especially building data-rich business apps, internal tools, or design systems. Remote or hybrid.
 
 ---
 
-## 📊 Impact at a glance
+## 📊 What I've delivered
 
 <div align="center">
 
-|  Metric  | Detail                                                                       |
-| :------: | :--------------------------------------------------------------------------- |
-| **50+**  | Browser-based PDF tools shipped in [AuroraPDF](https://aurora.stareezy.tech) |
-|  **$0**  | Server cost — all processing runs client-side via WebAssembly                |
-|  **2**   | Platforms (web + native) served from **one** design token system             |
-|  **6**   | Packages in the `stareezy-ui` monorepo (tokens → compiler → components)      |
-| **100%** | Strict-mode TypeScript across every project                                  |
-|  **AA**  | WCAG contrast & keyboard accessibility as a non-negotiable floor             |
+|      Metric      | Detail                                                                         |
+| :--------------: | :----------------------------------------------------------------------------- |
+|  **End-to-end**  | ERP & internal business systems architected and shipped from scratch           |
+| **Multi-module** | Dashboards, workflows, RBAC, reporting & data tables built for real operations |
+| **2 platforms**  | Web + React Native served from **one** design token system                     |
+|  **6 packages**  | In the `stareezy-ui` monorepo (tokens → compiler → components)                 |
+|     **100%**     | Strict-mode TypeScript across every project                                    |
+|      **AA**      | WCAG contrast & keyboard accessibility as a non-negotiable floor               |
 
 </div>
 
@@ -56,13 +58,15 @@ I'm a front end engineer who builds **production design systems** and **privacy-
 
 ## `$ whoami`
 
-I'm a Front End Engineer from Indonesia who cares deeply about **three things**:
+I'm a Front End Engineer from Indonesia who builds **the software businesses run on** — ERP modules, internal admin platforms, operational dashboards, and the design systems that hold them together.
 
-1. **Design systems that scale** — tokens, contracts, and component APIs that work on web and native simultaneously, without compromise.
-2. **Privacy as a product feature** — not a checkbox. If a tool can run entirely in the browser with zero server contact, it should.
-3. **Code that reads like intention** — strict TypeScript, property-based tests, and architecture that makes the right thing the obvious thing.
+What I care about:
 
-I build in public. I ship things I'd actually use. I obsess over the gap between "it works" and "it's right."
+1. **Solving real business problems** — inventory, finance, approvals, permissions, reporting. I learn the domain, model the data, and turn tangled requirements into interfaces people actually want to use.
+2. **Architecture that lasts** — typed contracts, layered structure, reusable components. Code that a team can extend two years from now without fear.
+3. **Craft in the details** — strict TypeScript, automated tests, accessibility, and performance that holds up when the data tables get big and the workflows get real.
+
+I take features from blank screen to production: design, frontend, API, deploy. I close the gaps nobody else wants to own.
 
 ---
 
@@ -74,9 +78,9 @@ I build in public. I ship things I'd actually use. I obsess over the gap between
 
 ### 🌌 [AuroraPDF](https://aurora.stareezy.tech)
 
-**50+ PDF tools. Zero server contact. Ever.**
+**A 50+ tool PDF suite running fully in the browser.**
 
-Files never leave the browser — no account, no uploads, no analytics. Built from frustration with tools that treat privacy as optional.
+A serious engineering exercise: heavy document processing (compress, edit, sign, OCR, convert) handled client-side with WebAssembly — fast, offline-capable, and scaled to 50+ tools without a backend.
 
 `React 19` · `TypeScript` · `Vite 6` · `WebAssembly` · `PWA`
 
@@ -103,9 +107,9 @@ A fully typed, object-based token system with cross-platform adapters for React 
 
 ### 🗂️ [portofolio-app](https://github.com/stareezy-1/portofolio-app)
 
-**Full product, frontend to backend.**
+**Full product with an admin back-office.**
 
-Public portfolio + auth-gated admin panel. Layered Go REST API on Fly.io, PostgreSQL via Supabase, Expo React Native Web frontend.
+A complete platform: public site plus an auth-gated admin panel for content management — the same patterns (RBAC, CRUD, dashboards) behind internal business tools. Layered Go REST API, PostgreSQL via Supabase.
 
 `Expo` · `RN Web` · `TanStack Query` · `Go` · `Gin` · `Supabase`
 
@@ -123,6 +127,23 @@ A library of steering & skill files for AI-assisted development: frontend archit
 </td>
 </tr>
 </table>
+
+---
+
+## `$ cat ./what-i-build.md`
+
+Beyond the public projects, the bulk of my work is **business software** — the systems that run day-to-day operations. Things I've designed and built:
+
+| Domain                           | What that looks like in code                                                             |
+| :------------------------------- | :--------------------------------------------------------------------------------------- |
+| 🏢 **ERP modules**               | Inventory, finance, procurement & HR screens wired to real business rules                |
+| 🔐 **Access control**            | Role-based permissions, approval chains, audit trails, multi-tenant boundaries           |
+| 📊 **Operational dashboards**    | Real-time metrics, filterable reports, exports, charts that decision-makers trust        |
+| 🧾 **Complex forms & workflows** | Multi-step wizards, conditional logic, validation, bulk actions, draft/submit states     |
+| 🗃️ **Data-heavy tables**         | Server-side pagination, sorting, virtualization — fast even at tens of thousands of rows |
+| 🧩 **Design systems**            | Shared component libraries so a whole team ships consistent UI at speed                  |
+
+I take these from **requirements → data model → UI → API → deploy**. I'm the engineer who turns a vague internal spec into software people rely on.
 
 ---
 
@@ -184,7 +205,7 @@ A library of steering & skill files for AI-assisted development: frontend archit
 
 ---
 
-## � GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -203,7 +224,7 @@ A library of steering & skill files for AI-assisted development: frontend archit
 
 </div>
 
-> Dominated by **TypeScript** across React, React Native & Next.js, with **Go** powering the backend and **CSS / WebAssembly** rounding out the privacy-first PDF stack.
+> Dominated by **TypeScript** across React, React Native & Next.js, with **Go** powering the backend layer and **CSS / SQL** rounding out the full-stack business-app work.
 
 ### 🏆 Trophies
 
@@ -231,13 +252,13 @@ A library of steering & skill files for AI-assisted development: frontend archit
 ## `$ git log --oneline --what-im-thinking`
 
 ```
-c3f9a1b  feat: property-based tests > unit tests for pure logic — always
-8b21e04  refactor: extract design tokens to zero-dep package, publish to npm
-6d4c0e7  perf: moved PDF processing to WebAssembly — server bill: $0
-3ae7f02  arch: layered Go backend (Handler → Service → Repository)
-f01c233  feat: cross-platform token adapters for web and React Native
+c3f9a1b  feat: shipped an ERP module from blank screen to production
+8b21e04  arch: layered the codebase so the next dev never has to guess
+6d4c0e7  feat: role-based access control that survived a security review
+3ae7f02  refactor: extracted a design system — feature velocity +40%
+f01c233  perf: virtualized a 50k-row data table, kept it at 60fps
 a12b877  chore: strictest TypeScript config money can't buy
-2c6d8aa  fix: never store a user's sensitive files on a remote server. ever.
+2c6d8aa  test: automated the workflows so releases stopped being scary
 ```
 
 ---
@@ -246,14 +267,14 @@ a12b877  chore: strictest TypeScript config money can't buy
 
 ```
 PID   NAME                              CPU    MEM    STATUS
-001   privacy-first                     ████   ███    running
+001   solve-the-business-problem        ████   ███    running
 002   strict-typescript                 ████   ██     running
-003   design-tokens-as-contracts        ███    ████   running
-004   property-based-testing            ███    ██     running
-005   cross-platform-without-compromise ██     ███    running
+003   clean-layered-architecture        ███    ████   running
+004   reusable-design-systems           ███    ██     running
+005   own-it-end-to-end                 ██     ███    running
 006   accessibility-WCAG-AA             ███    ██     running
-007   zero-magic-numbers                ██     █      running
-008   semantic-html-always              ██     █      running
+007   automated-tests-before-push       ██     █      running
+008   performance-under-real-load       ██     █      running
 ```
 
 ---
@@ -262,16 +283,16 @@ PID   NAME                              CPU    MEM    STATUS
 
 > **Last updated:** June 2026
 
-- 🚢 **Shipping** `@stareezy-ui/components` — 17+ cross-platform components, tokens → runtime styles, O(1) lookup
-- 🔬 **Exploring** Babel/Vite build-time transforms for atomic CSS extraction (`@stareezy-ui/compiler`)
-- 📖 **Writing** about cross-platform design systems, token architecture, and the WebAssembly PDF stack
-- 🌐 **Maintaining** [AuroraPDF](https://aurora.stareezy.tech) — 50+ tools, no server, no excuses
+- 🏢 **Building** ERP & internal business modules — workflows, RBAC, reporting, and data-heavy admin screens
+- 🚢 **Shipping** `@stareezy-ui/components` — 17+ cross-platform components that keep product teams consistent
+- 🏗️ **Architecting** scalable frontend structure: typed contracts, clean layers, automated tests
+- 📖 **Sharing** what I learn about design systems and real-world business-app engineering
 
 ---
 
 ## 🤝 Let's talk
 
-I'm open to **frontend, React Native, and design-systems roles** — remote or hybrid. If you're building something where craft matters, I'd love to hear about it.
+I'm open to **front end, React Native, and product engineering roles** — especially building data-rich business apps, internal tools, ERP platforms, or design systems. Remote or hybrid. If you're building something where engineering craft and ownership matter, I'd love to hear about it.
 
 | Channel        | Where                                                |
 | -------------- | ---------------------------------------------------- |
@@ -279,7 +300,7 @@ I'm open to **frontend, React Native, and design-systems roles** — remote or h
 | 📄 Résumé / CV | [stareezy.tech](https://stareezy.tech)               |
 | 🐦 Twitter / X | [@stareezy](https://twitter.com/stareezy)            |
 | 💻 GitHub      | [@stareezy-1](https://github.com/stareezy-1)         |
-| � Live demo    | [aurora.stareezy.tech](https://aurora.stareezy.tech) |
+| 🚀 Live demo   | [aurora.stareezy.tech](https://aurora.stareezy.tech) |
 
 ---
 
