@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ── Animated header banner (self-hosted, always available) ──────── -->
-<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/header.svg?v=2" alt="STAREEZY — Front End Engineer · ERP & Business Systems · Web & React Native" />
+<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/banner-kurisu-header.svg" alt="STAREEZY — Front End Engineer · ERP & Business Systems · Web & React Native" />
 
 # Muhammad Bintang Al Akbar
 
@@ -244,7 +244,7 @@ I take these from **requirements → data model → UI → API → deploy**. I'm
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stareezy-1&bg_color=0f0f0f&color=C0473E&line=C0473E&point=ffffff&area=true&hide_border=true)
 
 <!-- ── Animated contribution snake ─────────────────────────────────── -->
-<img src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/output/snake-kurisu-dark.svg" alt="Contribution snake animation" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stareezy-1&theme=github_dark" alt="Profile summary" />
 
@@ -315,6 +315,6 @@ _The best interfaces are invisible. The best systems are inevitable._
 ![Visitor Count](https://komarev.com/ghpvc/?username=stareezy-1&color=C0473E&style=flat-square&label=profile+views)
 
 <!-- ── Animated wave footer (self-hosted, always available) ────────── -->
-<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/footer.svg?v=2" alt="footer" />
+<img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/banner-kurisu-footer.svg" alt="footer" />
 
 </div>
