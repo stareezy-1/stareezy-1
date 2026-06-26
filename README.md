@@ -7,14 +7,14 @@
 
 <!-- ── Animated typing tagline ─────────────────────────────────────── -->
 <a href="https://stareezy.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2DD4A7&center=true&vCenter=true&width=760&lines=Front+End+Engineer+%C2%B7+Web+%26+React+Native;I+build+ERP+%26+internal+business+systems+from+scratch;Complex+dashboards%2C+workflows+%26+role-based+access;Design+systems+that+scale+across+teams;Strict+TypeScript+%C2%B7+Clean+architecture+%C2%B7+Real+ownership." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C0473E&center=true&vCenter=true&width=760&lines=Front+End+Engineer+%C2%B7+Web+%26+React+Native;I+build+ERP+%26+internal+business+systems+from+scratch;Complex+dashboards%2C+workflows+%26+role-based+access;Design+systems+that+scale+across+teams;Strict+TypeScript+%C2%B7+Clean+architecture+%C2%B7+Real+ownership." alt="Typing SVG" />
 </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-stareezy.tech-2DD4A7?style=for-the-badge&logo=safari&logoColor=white)](https://stareezy.tech)
-[![Resume](https://img.shields.io/badge/Résumé-View_CV-0f0f0f?style=for-the-badge&logo=readdotcv&logoColor=2DD4A7)](https://stareezy.tech)
-[![Email](https://img.shields.io/badge/Hire_Me-Get_in_touch-0f0f0f?style=for-the-badge&logo=gmail&logoColor=2DD4A7)](https://stareezy.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-stareezy.tech-C0473E?style=for-the-badge&logo=safari&logoColor=white)](https://stareezy.tech)
+[![Resume](https://img.shields.io/badge/Résumé-View_CV-0f0f0f?style=for-the-badge&logo=readdotcv&logoColor=C0473E)](https://stareezy.tech)
+[![Email](https://img.shields.io/badge/Hire_Me-Get_in_touch-0f0f0f?style=for-the-badge&logo=gmail&logoColor=C0473E)](https://stareezy.tech)
 
-![Open to work](https://img.shields.io/badge/●_Open_to-Frontend_/_React_Native_roles-2DD4A7?style=flat-square)
+![Open to work](https://img.shields.io/badge/●_Open_to-Frontend_/_React_Native_roles-C0473E?style=flat-square)
 ![Location](https://img.shields.io/badge/Based_in-Indonesia_·_Remote_friendly-555?style=flat-square)
 ![English](https://img.shields.io/badge/Languages-Bahasa_·_English-555?style=flat-square)
 
@@ -84,7 +84,7 @@ A serious engineering exercise: heavy document processing (compress, edit, sign,
 
 `React 19` · `TypeScript` · `Vite 6` · `WebAssembly` · `PWA`
 
-[![Live](https://img.shields.io/badge/live-aurora.stareezy.tech-2DD4A7?style=flat-square)](https://aurora.stareezy.tech)
+[![Live](https://img.shields.io/badge/live-aurora.stareezy.tech-C0473E?style=flat-square)](https://aurora.stareezy.tech)
 [![Repo](https://img.shields.io/badge/repo-aurora--pdf-555?style=flat-square&logo=github)](https://github.com/stareezy-1/aurora-pdf)
 
 </td>
@@ -210,8 +210,8 @@ I take these from **requirements → data model → UI → API → deploy**. I'm
 <div align="center">
 
 <!-- ── Headline stats + streak ─────────────────────────────────────── -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stareezy-1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2DD4A7&icon_color=2DD4A7&text_color=c9d1d9&bg_color=0f0f0f" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=stareezy-1&hide_border=true&background=0f0f0f&ring=2DD4A7&fire=2DD4A7&currStreakLabel=2DD4A7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=stareezy-1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=C0473E&icon_color=C0473E&text_color=c9d1d9&bg_color=0f0f0f" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=stareezy-1&hide_border=true&background=0f0f0f&ring=C0473E&fire=C0473E&currStreakLabel=C0473E&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 
 </div>
 
@@ -219,8 +219,8 @@ I take these from **requirements → data model → UI → API → deploy**. I'm
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stareezy-1&layout=compact&langs_count=8&hide_border=true&title_color=2DD4A7&text_color=c9d1d9&bg_color=0f0f0f" alt="Top languages" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stareezy-1&layout=donut&langs_count=6&hide_border=true&title_color=2DD4A7&text_color=c9d1d9&bg_color=0f0f0f" alt="Top languages donut" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stareezy-1&layout=compact&langs_count=8&hide_border=true&title_color=C0473E&text_color=c9d1d9&bg_color=0f0f0f" alt="Top languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stareezy-1&layout=donut&langs_count=6&hide_border=true&title_color=C0473E&text_color=c9d1d9&bg_color=0f0f0f" alt="Top languages donut" />
 
 </div>
 
@@ -230,8 +230,8 @@ I take these from **requirements → data model → UI → API → deploy**. I'm
 
 <div align="center">
 
-![ERP & Business Systems](https://img.shields.io/badge/ERP_%26_Business_Systems-built_from_scratch-2DD4A7?style=for-the-badge)
-![Design Systems](https://img.shields.io/badge/Design_Systems-6_package_monorepo-14b88a?style=for-the-badge)
+![ERP & Business Systems](https://img.shields.io/badge/ERP_%26_Business_Systems-built_from_scratch-C0473E?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design_Systems-6_package_monorepo-8B342B?style=for-the-badge)
 ![End to End](https://img.shields.io/badge/Ownership-Frontend_→_API_→_Deploy-0f0f0f?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-100%25_strict_mode-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -241,7 +241,7 @@ I take these from **requirements → data model → UI → API → deploy**. I'm
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stareezy-1&bg_color=0f0f0f&color=2DD4A7&line=2DD4A7&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stareezy-1&bg_color=0f0f0f&color=C0473E&line=C0473E&point=ffffff&area=true&hide_border=true)
 
 <!-- ── Animated contribution snake ─────────────────────────────────── -->
 <img src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
@@ -312,7 +312,7 @@ I'm open to **front end, React Native, and product engineering roles** — espec
 _The best interfaces are invisible. The best systems are inevitable._
 **Build things that respect the people who use them.**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=stareezy-1&color=2DD4A7&style=flat-square&label=profile+views)
+![Visitor Count](https://komarev.com/ghpvc/?username=stareezy-1&color=C0473E&style=flat-square&label=profile+views)
 
 <!-- ── Animated wave footer (self-hosted, always available) ────────── -->
 <img width="100%" src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/main/assets/footer.svg" alt="footer" />
