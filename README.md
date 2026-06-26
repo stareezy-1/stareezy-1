@@ -1,18 +1,14 @@
 <div align="center">
 
-```
-  ██████ ████████  █████  ██████  ███████ ███████ ███████ ██    ██
- ██         ██    ██   ██ ██   ██ ██      ██      ╚══███╔╝╚██  ██╔╝
-  ██████    ██    ███████ ██████  █████   █████     ███╔╝  ╚████╔╝
-       ██   ██    ██   ██ ██   ██ ██      ██       ███╔╝    ╚██╔╝
-  ██████    ██    ██   ██ ██   ██ ███████ ███████ ███████    ██╝
-```
+<!-- ── Animated wave header banner ─────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:14b88a,100:2DD4A7&height=200&section=header&text=STAREEZY&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Front%20End%20Engineer%20%C2%B7%20Design%20Systems%20%C2%B7%20Cross-Platform&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
 
 # Muhammad Bintang Al Akbar
 
-### Front End Engineer · Design Systems · Cross-Platform (Web + React Native)
-
-_I turn design intent into typed, tested, accessible interfaces that ship on web and native from one codebase._
+<!-- ── Animated typing tagline ─────────────────────────────────────── -->
+<a href="https://stareezy.tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2DD4A7&center=true&vCenter=true&width=720&lines=Front+End+Engineer+%C2%B7+Design+Systems;Web+%2B+React+Native+from+ONE+codebase;Privacy-first%2C+zero-server+web+apps;Strict+TypeScript+%C2%B7+Property-based+tests;Interfaces+that+feel+inevitable." alt="Typing SVG" />
+</a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-stareezy.tech-2DD4A7?style=for-the-badge&logo=safari&logoColor=white)](https://stareezy.tech)
 [![Resume](https://img.shields.io/badge/Résumé-View_CV-0f0f0f?style=for-the-badge&logo=readdotcv&logoColor=2DD4A7)](https://stareezy.tech)
@@ -223,6 +219,9 @@ A library of steering & skill files for AI-assisted development: frontend archit
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stareezy-1&bg_color=0f0f0f&color=2DD4A7&line=2DD4A7&point=ffffff&area=true&hide_border=true)
 
+<!-- ── Animated contribution snake ─────────────────────────────────── -->
+<img src="https://raw.githubusercontent.com/stareezy-1/stareezy-1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stareezy-1&theme=github_dark" alt="Profile summary" />
 
 </div>
@@ -290,5 +289,8 @@ _The best interfaces are invisible. The best systems are inevitable._
 **Build things that respect the people who use them.**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=stareezy-1&color=2DD4A7&style=flat-square&label=profile+views)
+
+<!-- ── Animated wave footer ────────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4A7,50:14b88a,100:0f0f0f&height=120&section=footer&animation=fadeIn" alt="footer" />
 
 </div>
